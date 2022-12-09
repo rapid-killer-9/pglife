@@ -46,15 +46,15 @@ For Eg : git push origin master
 # Demo
   Here are some Demo Image <br>
   1. **Home Page** 
-    ![](img/readme/home.png)
+  ![Home](./img/readme/home.png)
   2. **Search By Citites**
-    ![](img/readme/cities.png)
+  ![Cities](./img/readme/cities.png)
   3. **SignUp Page**  
-    ![](img/readme/signup.png)
+  ![SignUp](./img/readme/signup.png)
   4. **Login Page**  
-    ![](img/readme/login.png)
+  ![Login](./img/readme/login.png)
   5. **Search Result**
-    ![](img/readme/pgList.png)
+  ![Search Result](./img/readme/pgList.png)
 
 # Issues
   Feel free to submit issues and enhancement requests.
